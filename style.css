@@ -56,7 +56,6 @@ font-size: large;
 
 .text-style1 {
     box-sizing: border-box;
-    max-width: 600px;
     display: block;
     width: 100%;
     min-height: 20vh;
